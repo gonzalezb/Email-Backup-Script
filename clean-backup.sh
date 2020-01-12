@@ -2,12 +2,12 @@
 #********************************************************************************
 # Author: Brenden Gonzalez							*
 # Date of edit: 01/11/2020							*
-# Name: Mailcow server clean backup script						*
-# Verison: 1.0.0V								*
+# Name: Mailcow server clean backup script			                *
+# Verison: 1.0.1V								*
 # License: GPL V V3.0								*
 # *******************************************************************************
 # Lists version of the script
-echo "Clean Backup Script version 1.0.0"
+echo "Clean Backup Script version 1.0.1"
 echo "This script is licensed under GPL V3.0"
 # Confirming you want to run the backup script
 while true; do
@@ -29,7 +29,7 @@ esac
 done
 # Running the mailcow clean backup command
 cd /opt/mailcow-dockerized/helper-scripts
-./helper-scripts/backup_and_restore.sh backup all
+./backup_and_restore.sh backup all
 # Exits from /opt directory 
 cd
 # Notify user script is complete

@@ -3,7 +3,7 @@
 # Author: Brenden Gonzalez							*
 # Date of edit: 01/11/2020							*
 # Name: Mailcow Server backup script						*
-# Verison: 1.0.0V								*
+# Verison: 1.0.1V								*
 # License: GPL V V3.0								*
 # *******************************************************************************
 # Lists version of the script
