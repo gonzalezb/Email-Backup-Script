@@ -1,8 +1,8 @@
 # Email-Backup-Scripts
-Multiple email backup scripts made specifically for Mailcow.
+## Multiple email backup scripts made specifically for Mailcow.
 
-Instructions below:
-To run server-backup.sh you must update to backup location path i have put a note above the line that needs to be updated in the script. Update this line MAILCOW_BACKUP_LOCATION=/opt/backup with your desired backup location in the server-backup.sh script only!.
+**Instructions below:**
+To run server-backup.sh you must update to backup location path i have put a note above the line that needs to be updated in the script. Update this line **_MAILCOW_BACKUP_LOCATION=/opt/backup_** with your desired backup location in the server-backup.sh script only!.
 
 To run the clean-backup.sh or the purge.sh script no changes are needed to the scripts.
 
