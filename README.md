@@ -7,6 +7,7 @@ To run server-backup.sh you must update the backup location path i have put a no
 **To run the clean-backup.sh or the purge.sh script no changes are needed to the scripts.**
 
 **********************************************************************************************************************************
+###### Description of each Script
 server-backup.sh - This script backups Mailcow server it backups all parts that are needed for a server restore.		 
 																 
 clean-backup.sh - This script cleans your backup folder and deletes any backup that is older than 3 days		 
